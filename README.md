@@ -21,4 +21,6 @@ winget install -e --id Aegisub.Aegisub
 winget install -e --id VSCodium.VSCodium
 winget install -e --id JGraph.Draw
 winget install -e --id SamHocevar.WinCompose
+winget install -e --id VideoLAN.VLC
+winget install -e --id qBittorrent.qBittorrent
 ```
