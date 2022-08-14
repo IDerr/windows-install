@@ -23,4 +23,5 @@ winget install -e --id JGraph.Draw
 winget install -e --id SamHocevar.WinCompose
 winget install -e --id VideoLAN.VLC
 winget install -e --id qBittorrent.qBittorrent
+winget install -e --id Git.Git
 ```
