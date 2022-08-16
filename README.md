@@ -25,4 +25,5 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id qBittorrent.qBittorrent
 winget install -e --id Git.Git
 winget install -e --id Mattermost.MattermostDesktop
+winget install -e --id WhatsApp.WhatsApp
 ```
