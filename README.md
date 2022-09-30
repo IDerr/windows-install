@@ -4,7 +4,6 @@
 choco install -y curl
 choco install -y amd-ryzen-chipset
 choco install -y adobe-creative-cloud
-choco install -y vb-cable
 choco install -y windterm.portable
 ```
 # Install winget
