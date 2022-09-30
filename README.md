@@ -28,4 +28,5 @@ winget install -e --id Mattermost.MattermostDesktop
 winget install -e --id WhatsApp.WhatsApp
 winget install -e --id OBSProject.OBSStudio
 winget install -e --id Spotify.Spotify
+winget install -e --id Plex.PlexMediaPlayer
 ```
