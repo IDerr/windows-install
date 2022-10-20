@@ -30,4 +30,5 @@ winget install -e --id Spotify.Spotify
 winget install -e --id Plex.PlexMediaPlayer
 winget install -e --id Oracle.JDK.18
 winget install -e --id Logitech.GHUB
+winget install -e --id sqlectron.sqlectron-gui
 ```
