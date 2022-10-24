@@ -32,4 +32,5 @@ winget install -e --id Oracle.JDK.18
 winget install -e --id Logitech.GHUB
 winget install -e --id sqlectron.sqlectron-gui
 winget install -e --id Insomnia.Insomnia
+winget install -e --id Element.Element
 ```
