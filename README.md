@@ -33,4 +33,5 @@ winget install -e --id Logitech.GHUB
 winget install -e --id sqlectron.sqlectron-gui
 winget install -e --id Insomnia.Insomnia
 winget install -e --id Element.Element
+winget install -e --id Telegram.TelegramDesktop
 ```
