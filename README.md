@@ -34,4 +34,5 @@ winget install -e --id sqlectron.sqlectron-gui
 winget install -e --id Insomnia.Insomnia
 winget install -e --id Element.Element
 winget install -e --id Telegram.TelegramDesktop
+winget install -e --id MKVToolNix.MKVToolNix
 ```
