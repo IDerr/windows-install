@@ -17,7 +17,7 @@ winget install -e --id Microsoft.WindowsTerminal
 winget install -e --id Python.Python.3
 winget install -e --id OpenJS.NodeJS
 winget install -e --id Aegisub.Aegisub
-winget install -e --id VSCodium.VSCodium
+winget install -e --id Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders"'
 winget install -e --id JGraph.Draw
 winget install -e --id SamHocevar.WinCompose
 winget install -e --id VideoLAN.VLC
